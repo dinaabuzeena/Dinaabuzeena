@@ -11,24 +11,24 @@
     font-size: 150%;
     font-weight: bold;
     display: inline-flex;
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: 400px;
+    margin-right: 400px;
 }
 
  
 
   #list1{
     float: right;
-    margin-top:-130px;
+    margin-top:-200px;
     margin-left: 500px;
-    margin-right: 500px;
+    margin-right: 400px;
    
 
  
 }
 #div1{
     font-size: 150%; 
-    margin-left: 500px;
+    margin-left: 400px;
   
 
   
@@ -37,15 +37,15 @@
 
 .class2{
     font-size: 150%; 
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: 400px;
+    margin-right: 400px;
 }
 
 
 
 .class1{
-    margin-left: 500px; 
-    margin-right: 500px;
+    margin-left: 400px; 
+    margin-right: 400px;
 }
 
 
@@ -53,14 +53,43 @@
 /* figures.html */
 #header2 a {
     color:black;
-    margin-left: 500px; 
-    margin-right: 500px;
+    margin-left: 400px; 
+    margin-right: 400px;
     font-size: 150%;
     font-weight: bold;
     text-decoration: none;
 
 }
 #id2{
-    margin-left: 500px; 
-    margin-right: 500px; 
+    margin-left: 400px; 
+    margin-right: 400px; 
+}
+
+
+/* refrence.html */
+
+#header3 a{
+    color:black;
+    margin-left: 400px; 
+    margin-right: 400px;
+    font-size: 150%;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.class3{
+    color:black;
+    margin-left: 400px; 
+    margin-right: 400px;
+    font-size: 150%;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+
+.class4{
+    margin-left: 400px; 
+    margin-right: 400px; 
+    text-decoration: underline;
 }
